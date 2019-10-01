@@ -30,7 +30,7 @@ body {
 .ripple1, .ripple2, .ripple3 {
   position: absolute;
   left: 50vw;
-  background-image: radial-gradient(ellipse farthest-corner at 45px 45px, #00ffff 0%, rgba(0, 0, 0 ,255, 0) 50%, #0000ff 95%);
+  background-image: radial-gradient(ellipse farthest-corner at 45px 45px, #00ffff 0%, rgba(0, 0, 255, 0) 50%, #0000ff 95%);
   background-position: center center;
   -webkit-animation: radar 5s ease infinite;
   -moz-animation: radar 5s ease infinite;
